@@ -1,2 +1,3 @@
-# TinDog
-A dating app for dogs
+TinDog Starting Files
+    padding: 7% 15%;
+
